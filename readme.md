@@ -29,12 +29,18 @@ To start project with webpack config and mixins
 
 ``` npm run watch ```
 
-Files to watch for:
+<h4>Files to watch for:</h4>
 
 [webpack.mix.js](webpack.mix.js) 
 
-[Some sass custom styles added](resources/assets/sass/app.scss) 
+[Sass custom styles](resources/assets/sass/app.scss) 
+
+Frontend logic [DateForm.vue](resources/assets/js/components/DateForm.vue) 
+
+ServerSide logic Controller Class [LeapYearController.php](Http/Controllers/LeapYearController.php) 
+
+Views [home.blade.php](resources/views/home.blade.php)
 
 
  
-    
+![alt text](screenshot.png)
