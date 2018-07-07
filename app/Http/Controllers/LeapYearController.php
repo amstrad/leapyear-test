@@ -58,7 +58,6 @@ class LeapYearController extends Controller
 
         //get day name in CAT
         setlocale(LC_TIME, 'ca_ES', 'Catalan_Spain', 'Catalan');
-        Carbon::setLocale('ca_ES');
         $data["day_cat"] = ucfirst($carbon->formatLocalized("%A"));
 
         //get year for given date
