@@ -12,7 +12,7 @@
     
 Leap year test running on Laravel Framework 5.6.26+Vue.Js
 
-Clone this repo to your local server     
+Clone this repo to your local server / or [Download it](https://github.com/amstrad/leapyear-test/archive/master.zip)      
   ```  
      git clone https://github.com/amstrad/leapyear-test leapyear-test
    ```
