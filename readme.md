@@ -17,15 +17,15 @@ Clone this repo to your local server
      git clone https://github.com/amstrad/leapyear-test leapyear-test
    ```
 
-inside the new local folder:
+move inside the new local folder and install composer dependencies:
 ```
     composer install
    ``` 
-and
+and node dependencies
 
 ``` npm install ```
 
-To start project with webpack config and mixins
+Finish. Run project:
 
 ``` npm run watch ```
 
