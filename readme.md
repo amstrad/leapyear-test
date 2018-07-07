@@ -14,14 +14,14 @@ Leap year test running on Laravel Framework 5.6.26+Vue.Js
 
 Clone this repo to your local server     
   ```  
-     git clone https://github.com/libgit2/libgit2 leapyear-test
+     git clone https://github.com/amstrad/leapyear-test leapyear-test
    ```
 
-then run, inside the new local folder
+inside the new local folder:
 ```
     composer install
    ``` 
-then
+and
 
 ``` npm install ```
 
