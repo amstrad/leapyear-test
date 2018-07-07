@@ -37,7 +37,7 @@ To start project with webpack config and mixins
 
 Frontend logic [DateForm.vue](resources/assets/js/components/DateForm.vue) 
 
-ServerSide logic Controller Class [LeapYearController.php](Http/Controllers/LeapYearController.php) 
+ServerSide logic Controller Class [LeapYearController.php](app/Http/Controllers/LeapYearController.php) 
 
 Views [home.blade.php](resources/views/home.blade.php)
 
